@@ -1,0 +1,11 @@
+{  
+    "provider": "aws-s3",  
+    "providerOptions": {
+      "accessKeyId": "AKIAYQ27TCCZTA3DTY4U",
+      "secretAccessKey": "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",
+      "region": "us-east-2",
+      "params": {
+        "Bucket": "zemerbucket"
+      }
+   }
+}
